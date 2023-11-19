@@ -1,5 +1,5 @@
 body {
-    font-family:'Times New Roman', Times, serif
+    font-family:'Times New Roman', Times, serif;
     margin: 5px;
     padding: 5px;
 }
@@ -10,6 +10,7 @@ header {
     text-align: center;
     padding: 15px;
 }
+
 nav ul {
     list-style-type: none;
     overflow: hidden;
@@ -25,7 +26,7 @@ nav ul li a, .dropbtn {
     color: white;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
+    text-decoration: none; */helps remove underline*/
 }
 
 nav ul li a:hover, .dropdown:hover .dropbtn {
@@ -54,6 +55,6 @@ nav ul li.dropdown {
     background-color:#f9f9f9;
 }
 
-.dropdown:hover .dropdown-content {
+.dropdown:hover.dropdown-content {
     display: block;
 }
