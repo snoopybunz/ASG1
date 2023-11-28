@@ -1,60 +1,95 @@
 body {
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Overpass', sans-serif;
     margin: 5px;
     padding: 5px;
+    background-color:#282828;
 }
 
 header {
-    background-color: mistyrose;
-    color: black;
     text-align: center;
-    padding: 15px;
 }
 
-nav ul {
-    list-style-type: none;
-    overflow: hidden;
-    background-color:mistyrose;
+.logo {
+    max-width: 25%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
 }
 
-nav ul li {
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+nav a {
     float: left;
-}
-
-nav ul li a, .dropbtn {
-    display: inline-block;
+    display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none; */helps remove underline*/
+    text-decoration: none;
+    font-size: 30px;
 }
 
-nav ul li a:hover, .dropdown:hover .dropbtn {
-    background-color: #555;
+nav a:hover,
+nav a.active {
+    border-bottom: 2px solid white;
 }
-
-nav ul li.dropdown {
-    display: inline-block;
-}
-
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-    z-index: 1;
-}
-
-.dropdown-content a {
+nav a.active {
     color: black;
-    padding: 12px 16px;
-    display: block;
 }
 
-.dropdown-content a:hover {
-    background-color:#f9f9f9;
+nav a.active{
+    border-bottom: 2px solid white;
 }
 
-.dropdown:hover.dropdown-content {
+nav a.hover,
+nav a.hover {
+    background-color: transparent;
+    overflow: hidden;
+}
+
+.group {
+    max-width: 100%;
+    height: auto;
     display: block;
+    margin: 0 auto;
+    padding: 3%;
+}
+
+.OBalbum {
+    max-width: 40%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding: 3%;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+h3 {
+    color: white;
+    text-align:center;
+    font-size: 40px;
+}
+
+p {
+    color: white;
+    text-align:center;
+    font-size: 30px;
+}
+
+p.album-title {
+    font-weight: bold;
+}
+
+.description {
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
 }
