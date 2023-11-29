@@ -1,7 +1,7 @@
 body {
     font-family: 'Overpass', sans-serif;
-    margin: 5px;
-    padding: 5px;
+    margin: 0;
+    padding: 0;
     background-color:#282828;
 }
 
@@ -30,6 +30,7 @@ nav a {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 30px;
+    margin: 0 70px;
 }
 
 nav a:hover,
@@ -63,7 +64,7 @@ nav a.hover {
     height: auto;
     display: block;
     margin: 0 auto;
-    padding: 3%;
+    padding: 0;
 }
 
 h2 {
@@ -90,6 +91,77 @@ p.album-title {
 
 .description {
     text-align: center;
+    margin: 20px;
     margin-left: 30%;
     margin-right: 30%;
+    font-size: 20px;
+}
+
+.footer {
+    background-color: #626262;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.text-info {
+    max-width: 400px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.newsletter {
+    text-align: center;
+}
+
+.newsletter h4 {
+    margin-bottom: 10px;
+    font-size: large;
+}
+
+.newsletter form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.newsletter input {
+    padding: 8px;
+    margin-right: 5px;
+}
+
+.newsletter button {
+    padding: 8px 15px;
+    background-color: #dedede;
+    color: rgb(67, 67, 67);
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+}
+
+.social-icons a{
+    margin: 0 10px;
+}
+
+.social-icons a img {
+    max-width: 30px;
+    height: 30px;
+    margin: 0 10px;
+}
+
+.about-background {
+    opacity: 0.5;
 }
