@@ -81,11 +81,6 @@ h3 {
     font-size: 40px;
 }
 
-h4 {
-    color: white;
-    text-align: center;
-}
-
 p {
     color: white;
     text-align:center;
@@ -131,7 +126,7 @@ p.album-title {
 
 .newsletter h4 {
     margin-bottom: 10px;
-    font-size: large;
+    font-size: 20px;
 }
 
 .newsletter form {
@@ -208,7 +203,7 @@ p.album-title {
     text-align: center;
 }
 
-.about-enhypen {
+.about-enhypen h4 {
     text-align: center;
     color: white;
     font-size: 25px;
@@ -274,4 +269,35 @@ p.album-title {
     max-width: 100%;
     height: auto;
     border-radius: 8px;
+}
+
+.Albums h1{
+    font-size: 40px;
+    color:white;
+    text-align: center;
+}
+.newestAlbum {
+    position: relative;
+    max-width: 400px;
+    margin: auto;
+}
+
+.newestAlbumImg {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.learn-more-btn {
+    position: relative;
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+    padding: 10px 20px;
+    background-color: #ff9a47; /* Adjust the background color as needed */
+    color: #fff; /* Adjust the text color as needed */
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
 }
