@@ -39,6 +39,7 @@ nav a.active {
     color:white;
     background-color: rgb(84, 8, 8);
 }
+
 nav a.active {
     color: white;
 }
@@ -120,13 +121,15 @@ p.album-title {
     padding-left: 20px;
 }
 
-.newsletter {
-    text-align: center;
-}
-
-.newsletter h4 {
+.footer .newsletter h4 {
+    margin: 0;
+    padding: 0;
     margin-bottom: 10px;
     font-size: 20px;
+}
+
+.newsletter {
+    text-align: center;
 }
 
 .newsletter form {
@@ -242,7 +245,7 @@ p.album-title {
 .image-item img {
     max-width: 100%;
     height: auto;
-    border-radius: 8px;
+    border-radius: 20px;
 }
 
 .profile2 {
@@ -286,18 +289,64 @@ p.album-title {
     width: 100%;
     height: auto;
     display: block;
+    border-radius: 8px;
+    padding-bottom: 20px;
 }
 
 .learn-more-btn {
-    position: relative;
     display: block;
-    margin-top: 20px;
+    margin-bottom: 20px auto;
     text-align: center;
-    padding: 10px 20px;
-    background-color: #ff9a47; /* Adjust the background color as needed */
-    color: #fff; /* Adjust the text color as needed */
+    padding: 15px 20px;
+    max-width: 200px;
+    background-color: #ff9a47; /*the background color */
+    color: #fff; /*the text color*/
+    font-size: 20px;
     text-decoration: none;
     border: none;
     border-radius: 5px;
     cursor: pointer;
+}
+
+.album-row {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.albumImg {
+    width: 20%;
+    height: auto;
+    border-radius: 8px;
+    margin: 0 70px;
+    position: relative;
+}
+
+.button-row {
+    display: flex;
+    justify-content: space-around;
+}
+
+.music-videos {
+    text-align: center;
+}
+
+.music-videos h1 {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    margin: 60px;
+}
+
+.video-row {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.video {
+    margin: 10px;
+    border: 2px solid white; /* Add border to each video */
+    border-radius: 8px; /* Add border radius */
 }
