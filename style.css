@@ -489,3 +489,35 @@ p.album-title {
     animation-duration: 1.5s;
 } 
 
+@media only screen and (max-width: 600px) {
+
+    .logo {
+        text-align: center;
+    }
+
+    .profile,
+    .profile2 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .image-item {
+        width: 45%; /* Two columns on mobile */
+        margin: 1%;
+    }
+
+    #navbar.hidden {
+        display: none;
+    }
+
+    .album-row {
+        display: flex;
+        flex-direction: column; /* Display albums in a single column on mobile */
+    }
+
+    .button-row {
+        display: flex;
+        flex-direction: column; /* Display buttons in a single column on mobile */
+    }
+}
