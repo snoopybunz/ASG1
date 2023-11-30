@@ -293,9 +293,17 @@ p.album-title {
     padding-bottom: 20px;
 }
 
+.newestAlbum .learn-more-btn {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
 .learn-more-btn {
     display: block;
     margin-bottom: 20px auto;
+    margin-left: 20px;
+    margin-right: 30px;
     text-align: center;
     padding: 15px 20px;
     max-width: 200px;
@@ -315,7 +323,7 @@ p.album-title {
 }
 
 .albumImg {
-    width: 20%;
+    width: 25%;
     height: auto;
     border-radius: 8px;
     margin: 0 70px;
@@ -324,7 +332,8 @@ p.album-title {
 
 .button-row {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
+    gap: 163px; 
 }
 
 .music-videos {
@@ -350,3 +359,97 @@ p.album-title {
     border: 2px solid white; /* Add border to each video */
     border-radius: 8px; /* Add border radius */
 }
+
+.reality-shows {
+    text-align: center;
+}
+
+.reality-shows h1{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    margin: 60px;
+}
+
+.shows-row1,
+.shows-row2 {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 40px;
+}
+
+.shows img {
+    width: 90%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.special-A {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+
+.special-A {
+    font-size: 20px;
+    color:white;
+    text-align: center;
+}
+
+.mySlides {
+    display: none;
+}
+
+.special-A img {
+    width: 50%;
+    height: auto;
+}
+
+.prev, .next {
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    cursor: pointer;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+}
+
+.prev {
+    left: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+.next {
+    right: 0;
+    border-radius: 0 3px 3px 0;
+}
+
+.prev:hover, .next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+    background-color: #717171;
+}
+
+.fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  } 
