@@ -1,7 +1,8 @@
 # ASG1
-About website:
-Floral Shop 
-Selling fresh flowers and curating a diverse selection of flowers, each meticulously chosen for its vibrancy, fragrance, and lasting beauty. Through the website it will allow customers to online purchase their items that can be delivered to their doorstep to provide convenience. Sharing my journey with a passion for bringing joy and beauty into people's lives through the art of floral arrangements.
+Project Overview:
+ENHYPEN Official Website
+All things related to ENHYPEN's latest comeback, member profiles, music videos, reality shows, and all their albums details. This website aims to provide fans with a centralized platform where they can access comprehensive information, engage with the latest updates, and immerse themselves in the world of ENHYPEN.
 
-Purpose:
-Providing different services of making flower arrangements, bouquets and even allowing customers to customize their own. Offering a range of services. From expertly crafted flower arrangements to personalized bouquets for special occasions, to be a part of your every celebration. The delivery services ensure that your chosen blooms arrive fresh and on time.
+Design Process
+
+Exiting Features
