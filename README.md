@@ -37,31 +37,31 @@ Testing:
 
 Credits
 Content
-https://beliftlab.com/artist/profile/ENHYPEN 
-https://twitter.com/BILLBOARDBELIFT/status/1314450459919179778?lang=en 
+- https://beliftlab.com/artist/profile/ENHYPEN 
+- https://twitter.com/BILLBOARDBELIFT/status/1314450459919179778?lang=en 
 
 MEdia
-https://www.w3schools.com/howto/howto_js_slideshow.asp 
-https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp 
-https://1000logos.net/enhypen-logo/ 
-https://www.deviantart.com/heesgtv1130/art/ENHYPEN-FATE-TOUR-LOGO-PNG-970671760 
-https://fonts.google.com/specimen/Overpass 
-https://www.iconsdb.com/white-icons/spotify-icon.html 
-https://www.iconsdb.com/white-icons/apple-icon.html#google_vignette 
-https://www.iconsdb.com/white-icons/facebook-7-icon.html 
-https://www.iconsdb.com/white-icons/tiktok-3-icon.html 
-https://www.figma.com/file/cNGDTVTbbeMtSsJ2TJyFi3/Basil-Icons-(Community)?type=design&node-id=465-6&mode=design&t=ehDhQf5rh4KTVwg2-0 
-https://freebiehive.com/twitter-x-white-logo-png/ 
-https://icons8.com/icons/set/youtube--static--white 
-https://icons8.com/icons/set/instagram--static--white 
-https://www.enhypenguide.com/content 
-https://weverseshop.io/en/shop/US_USD/artists/10/sales/2590 
-https://youtu.be/qedonJosQ3g?si=4WOPsR6iyfF0orxG 
-https://youtu.be/HROTJfbtcU4?si=S3O3LKDyZDttF1f- 
-https://youtu.be/HOciAVeq_HU?si=XI7DZXxZzyAg5qUG 
-https://youtu.be/osmHArcf_aE?si=6DcD-n4WRE6qDfkF 
+- https://www.w3schools.com/howto/howto_js_slideshow.asp 
+- https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp 
+- https://1000logos.net/enhypen-logo/ 
+- https://www.deviantart.com/heesgtv1130/art/ENHYPEN-FATE-TOUR-LOGO-PNG-970671760 
+- https://fonts.google.com/specimen/Overpass 
+- https://www.iconsdb.com/white-icons/spotify-icon.html 
+- https://www.iconsdb.com/white-icons/apple-icon.html#google_vignette 
+- https://www.iconsdb.com/white-icons/facebook-7-icon.html 
+- https://www.iconsdb.com/white-icons/tiktok-3-icon.html 
+- https://www.figma.com/file/cNGDTVTbbeMtSsJ2TJyFi3/Basil-Icons-(Community)?type=design&node-id=465-6&mode=design&t=ehDhQf5rh4KTVwg2-0 
+- https://freebiehive.com/twitter-x-white-logo-png/ 
+- https://icons8.com/icons/set/youtube--static--white 
+- https://icons8.com/icons/set/instagram--static--white 
+- https://www.enhypenguide.com/content 
+- https://weverseshop.io/en/shop/US_USD/artists/10/sales/2590 
+- https://youtu.be/qedonJosQ3g?si=4WOPsR6iyfF0orxG 
+- https://youtu.be/HROTJfbtcU4?si=S3O3LKDyZDttF1f- 
+- https://youtu.be/HOciAVeq_HU?si=XI7DZXxZzyAg5qUG 
+- https://youtu.be/osmHArcf_aE?si=6DcD-n4WRE6qDfkF 
 
 
 Acknowledgements
-https://beliftlab.com/artist/profile/ENHYPEN 
-https://twitter.com/BILLBOARDBELIFT/status/1314450459919179778?lang=en 
+- https://beliftlab.com/artist/profile/ENHYPEN 
+- https://twitter.com/BILLBOARDBELIFT/status/1314450459919179778?lang=en 
