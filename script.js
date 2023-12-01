@@ -1,8 +1,13 @@
 let slideIndex = 0;
+
+//Function to validate the email input of the form//
 function validateForm() {
+    //get email input element//
     var emailInput = document.getElementById('emailInput');
+    //trim and get the value of the email input, trim is a method to remove any leading and trailing whitespaces from the string//
     var emailValue = emailInput.value.trim();
 
+    //Check if the email is empty//
     if (emailValue === '') {
         alert('Please enter a valid email address.');
         return false; // Prevent form submission
@@ -12,7 +17,7 @@ function validateForm() {
     var confirmationMessage = document.getElementById('confirmationMessage');
     confirmationMessage.innerHTML = 'Subscription successful!';
 
-    // Optionally, you can hide the form after successful submission
+    // Can hide the form after successful submission
     var form = document.querySelector('.newsletter form');
     form.style.display = 'none';
 
@@ -35,13 +40,3 @@ let currentImageIndex = 0;
 
         // Set interval to rotate images every 2 seconds
         setInterval(rotateImages, 2000);
-
-
-function myFunction() {
-    var x = document.getElementById("myLinks");
-    if (x.style.display === "block") {
-        x.style.display = "none";
-    } else {
-        x.style.display = "block";
-    }
-}
