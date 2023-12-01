@@ -19,21 +19,29 @@ function validateForm() {
     return false; // Prevent form submission
 }
 
-function showSlides(n) {
-    let i;
-    const slides = document.getElementsByClassName("mySlides");
+let currentImageIndex = 0;
+        const images = document.querySelectorAll('.special-A-imgs img');
 
-    if (n >= slides.length) {
-        slideIndex = 0; // Wrap around to the first slide
+        function rotateImages() {
+            images[currentImageIndex].style.display = 'none';
+
+            currentImageIndex = (currentImageIndex + 1) % images.length;
+
+            images[currentImageIndex].style.display = 'block';
+        }
+
+        // Initial call to start rotating images
+        rotateImages();
+
+        // Set interval to rotate images every 2 seconds
+        setInterval(rotateImages, 2000);
+
+
+function myFunction() {
+    var x = document.getElementById("myLinks");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
     }
-
-    if (n < 0) {
-        slideIndex = slides.length - 1; // Go to the last slide
-    }
-
-    for (i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";
-    }
-
-    slides[slideIndex].style.display = "block";
 }
