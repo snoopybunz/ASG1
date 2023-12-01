@@ -2,7 +2,9 @@
 Project Overview:
 
 ENHYPEN Official Website
-All things related to ENHYPEN's latest comeback, member profiles, music videos, reality shows, and all their albums details. This website aims to provide fans with a centralized platform where they can access comprehensive information, engage with the latest updates, and immerse themselves in the world of ENHYPEN.
+Welcome to our dedicated hub for all things ENHYPEN! Our project is designed with one mission in mind – to offer fans an unparalleled experience by providing a centralized platform for the latest and most comprehensive information about ENHYPEN. Whether you're a long-time ENGENE or a newcomer to the fandom, our website is your go-to destination for in-depth details on ENHYPEN's latest comeback, member profiles, mesmerizing music videos, captivating reality shows, and exhaustive album details.
+
+Picture a space where fans can not only stay updated with the group's most recent activities but also dive deep into ENHYPEN's discography and career. It's a vibrant community hub where fans can share their passion, connect with like-minded individuals, and immerse themselves in the captivating world of ENHYPEN. From exclusive insights to real-time updates, we've crafted a virtual haven for ENGENEs to celebrate their love for ENHYPEN and stay connected with the pulse of their favorite K-pop group. 
 
 Design Process:
 
