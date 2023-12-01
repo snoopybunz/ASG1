@@ -66,7 +66,10 @@ Media
 - https://youtu.be/HOciAVeq_HU?si=XI7DZXxZzyAg5qUG 
 - https://youtu.be/osmHArcf_aE?si=6DcD-n4WRE6qDfkF
 - https://youtu.be/q5LgpmZwht8?si=pL8WA1ubTNMGIIPj
-- https://youtu.be/X7d6Dt17yHk?si=Cq7LkHUKWGu8R_-g 
+- https://youtu.be/X7d6Dt17yHk?si=Cq7LkHUKWGu8R_-g
+- https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
+- https://www.w3schools.com/howto/howto_js_hover_tabs.asp
+- https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_menu_icon
 
 
 Acknowledgements
