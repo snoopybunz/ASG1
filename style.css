@@ -589,7 +589,7 @@ p.album-title {
 }
 
 /* ================ MOBILE ================ */
-@media (max-width: 800px) {
+@media (max-width: 480px) {
     .logo {
         text-align: center;
         max-width: 50%;
@@ -604,17 +604,39 @@ p.album-title {
     }
 
     .navigation_hamburger_menu {
-        display: block;
+        font-size: 12px; 
+        height: 20px; 
+        width: 20px; 
+        line-height: 20px; 
+    }
+    .hamburger {
+        height: 20px;
+        width: 20px; 
+        line-height: 20px; 
+        border-radius: 50%;
+        margin-right: 50px;
     }
 
     .newsletter {
         display: none;
     }
 
+    .text-info {
+        max-width: 100%; 
+        text-align: center; 
+        font-size: 12px; 
+        padding: 0 10px;
+    }
+
+    .social-icons {
+        font-size: 15px;
+        padding-top: 20px;
+    }
+
     .social-icons a img {
-        max-width: 25px;
-        height: 25px;
-        display:none;
+        max-width: 15px;
+        height: 15px;
+        text-align: center;
     }
 
     @media screen and (max-width: 480px) {
@@ -628,15 +650,16 @@ p.album-title {
         }
 
         nav a {
-            font-size: 10px; /* Adjust the font size as needed */
+            font-size: 10px; 
         }
 
         .logo {
             width: 215px;
             height: auto;
         }
-
-@media (max-width: 800px) {
+    }
+    
+@media (max-width: 480px) {
 
     body {
         font-size: var(--mobile-font-size);
@@ -656,6 +679,10 @@ p.album-title {
 }
 
 @media (max-width: 800px) {
+    body {
+        font-size: var(--mobile-font-size);
+    }
+    
         .special-A-imgs-grid {
             display: grid;
             grid-template-areas: "hs" "ff" "gp";
