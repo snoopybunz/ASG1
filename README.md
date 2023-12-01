@@ -13,20 +13,22 @@ Some user stories that guided our design process:
 - As a dedicated viewer, I want information about Enhypen's reality shows, so that I can follow their journey behind the scenes.
 - As a music enthusiast, I want to discover and listen to tracks from Enhypen's new comeback, so that I can enjoy their latest music.
 
-Exiting Features:
+Existing Features:
 
 - Album Section - Allows users to explore details about Enhypen's latest albums, including release dates, tracklists, and concept photos.
 - Member Profiles - Provides comprehensive profiles for each Enhypen member, showcasing their individual talents, roles, and fun facts.
 - Reality Show Hub - A dedicated space for fans to catch up on Enhypen's reality shows, with episode summaries, highlights, and behind-the-scenes content.
 - Comeback Tracks - Listen to and discover tracks from Enhypen's latest comeback, with links to streaming platforms.
+- Navigation Bar - Used the dark red background for headers when user hovers over it as it represents blood which is in relation to the groups concept of vampires.
+- Navigation Menu (Top Right side) - convenient for users using mobile and when users scrolls down web page.
+- iFrames for their music videos on youtube
+- Sign up their newletter by entering email in the form - recieve updates of the group.
 
 Additional Features to be implemented:
 
 - Fan Community - Create a space for fans to interact, share fan art, and discuss all things Enhypen.
 - Event Calendar - Keep fans informed about upcoming Enhypen events, concerts, and releases.
-- iFrames for their music videos on youtube
-- Sign up their newletter by entering email in the form
-- 
+- Tour - updated tour dates
 
 Technologies Used:
 
