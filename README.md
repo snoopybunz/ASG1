@@ -20,11 +20,16 @@ Exiting Features:
 Additional Features to be implemented:
 - Fan Community - Create a space for fans to interact, share fan art, and discuss all things Enhypen.
 - Event Calendar - Keep fans informed about upcoming Enhypen events, concerts, and releases.
+- iFrames for their music videos on youtube
+- Sign up their newletter by entering email in the form
+- 
 
 Technologies Used:
 - HTML/CSS: Used for the overall structure and styling of the website.
 - JavaScript: Implemented for dynamic content updates and interactive features.
 - Figma: Used to design low and high fidelity wireframes for better vision and planning of the layout of the whole website.
+- VS Code
+- Google Fonts
 - w3schools
 - https://validator.w3.org/
 - https://jigsaw.w3.org/css-validator/
@@ -40,7 +45,7 @@ Content
 - https://beliftlab.com/artist/profile/ENHYPEN 
 - https://twitter.com/BILLBOARDBELIFT/status/1314450459919179778?lang=en 
 
-MEdia
+Media
 - https://www.w3schools.com/howto/howto_js_slideshow.asp 
 - https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp 
 - https://1000logos.net/enhypen-logo/ 
