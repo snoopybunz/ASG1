@@ -45,10 +45,11 @@ Technologies Used:
 
 Testing:
 
-- Discovery Section: CLick on the various albums and verify that album details and photos are displayed correctly. Click on a track to ensure it links to the streaming platform.
+- Discovery Section: Click on the various albums and verify that album details and photos are displayed correctly. Click on a track to ensure it links to the streaming platform.
 - Member Profiles: Confirm that each member's profile displays accurate information.
 - Reality Show Hub: Check if it links to the correct playlist with all episodes.
 - Comeback Tracks: Verify that tracks can be played and link to the streaming platforms.
+- Social Media Contact: Ensure all the social media icon links to the right platform.
 
 Credits
 Content
